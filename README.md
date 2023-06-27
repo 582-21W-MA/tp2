@@ -53,7 +53,7 @@ Chaque élément doit être présenté sur une diapositive différente. Utilisez
 
 ### Qualité et organisation de la maquette `10`
 
-- [ ] Les éléments livrables sont organisés en utilisant les outils de mise en page appropriés (*page*, *section*, *frame*, *styles*).
+- [ ] Les éléments livrables sont organisés en utilisant les outils de mise en page appropriés (*page*, *section*, *frame*, *style*).
 - [ ] Les principes du système de design sont précis et pertinents en vue des objectifs identifiés par le cahier des charges.
 - [ ] Le système de design est appliqué de façon constante à travers la maquette.
 - [ ] La grille typographique est utilisée judicieusement pour aligner les éléments de l’interface, et ainsi lui donner un rythme visuel.
