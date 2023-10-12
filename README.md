@@ -1,71 +1,59 @@
 # TP2 : Maquette graphique
 
 Énoncé : cours 9 \
-Remise : cours 14 \
-Présentation : cours 15 \
-Pondération : 20%
+Remise : cours 15 \
+Pondération : 25%
 
-
-Pour le deuxième travail pratique, vous devrez concevoir une maquette graphique à partir de votre maquette fil de fer et des commentaires reçus lors de sa présentation. La maquette graphique est l’évolution de la maquette fil de fer ; profitez de cette étape pour faire les changements nécessaires à la structure de votre site Web et en articuler l’apparence finale.
-
-La maquette doit détailler visuellement deux pages de votre site Web. Vous pouvez soit choisir une des trois versions sur lesquelles vous avez travaillé pour le TP1, soit mélanger des éléments des trois. Elle doit être conçue à l’aide de l’éditeur de graphiques vectoriels Figma, et incorporer l’approche modulaire vue en classe. Les éléments de l’interface doivent être conçus en tant que composants distincts et utiliser des styles.
-
-Une fois la maquette complétée, vous devrez la présenter devant toute la classe. La présentation se fera sous le format d’un argumentaire formel devant client·e.
+Pour le deuxième travail pratique, vous devez concevoir, dans un premier temps, le système de design de votre site Web, et, dans un deuxième temps, sa maquette graphique. Cette dernière doit être conçue à l'aide de l'éditeur de graphiques vectoriels Figma, et incorporer l'approche modulaire vue en classe.
 
 ## Éléments livrables
 
-Votre travail doit être soumis sous la forme d’un fichier Figma (`exemple.fig`). L’option pour enregistrer le ficher sur votre ordinateur se trouve dans `Main Menu > File > Save local copy`.
+Votre travail doit être soumis dans un seul fichier Figma (`tp2-maximepigeon.fig`). L'option pour enregistrer le ficher sur votre ordinateur se trouve dans `Main Menu > File > Save local copy`. Le fichier doit inclure, sur des pages différentes, la charte graphique, les composants, et la maquette.
 
-Votre fichier doit inclure les éléments suivants sur des pages distinctes : 
+### Charte graphique
 
-- Système de design du site Web, incluant :
-    - Objectif principal et parties prenantes
-    - 3 principes ou valeurs
-    - 2 polices de caractères et une échelle typographique à 5 niveaux
-    - Palette de couleurs (primaire, accent, neutre)
-    - Grille typographique
-    - 1 motif supplémentaire
-- Composants de l’interface
-- Maquette
-- Diapositives de la présentation
+La charte graphique doit définir les éléments suivants :
 
-## Présentation
+- 1 principe de design (ligne directrice de la charte graphique)
+- 2 polices de caractères
+- 4 niveaux d'une échelle typographique
+- 3 couleurs d'une palette de couleurs
+- 1 mesure de base
+- 1 grille
 
-Vous aurez 5 minutes pour présenter votre maquette devant la classe, qui pour l’exercice jouera le rôle de client·e. Voici les éléments qui doivent être présentés :
+L'échelle typographique, la palette de couleurs et la grille doivent être définies en tant que *styles*. Le choix des polices de caractères et des couleur doit être brièvement justifié (2–3 phrases) en se référant au principe de design. Dans la palette, le contraste entre la couleur de premier-plan et la couleur de l'arrière-plan doit être identifié pour chacune des couleurs. Le contraste doit respecter les WCAG.
 
-1. Nom du site Web
-2. Objectif principal et parties prenantes
-3. Principes ou valeurs du système de design
-4. Polices de caractères
-5. Palette de couleurs (surtout la primaire)
-6. Motif supplémentaire
-7. Maquette
+### Composants
 
-Chaque élément doit être présenté sur une diapositive différente. Utilisez la fonctionnalité « présentation » de Figma pour vous simplifiez la tâche.
+L'interface du site Web doit être divisée en composants. Ces composants doivent être définis séparément à l'aide de la fonctionnalité *component* de Figma. Tous les *composants principaux* doivent se trouver dans la page « Composants ». Seuls les *instances* de ces composants peuvent être utilisées dans la maquette.
 
-## Critères d’évaluation
+### Maquette graphique
+
+La maquette graphique doit détailler les deux même pages sur lesquelles vous avez travaillez lors du TP1. Libre à vous d'incorporer ou non les variations proposées.
+
+## Rubrique d'évaluation
 
 ### Respect des consignes `5`
 
-- [ ] La maquette détaille visuellement 2 pages du site Web.
-- [ ] La maquette incorpore l’approche modulaire.
-- [ ] Le système de design inclus tous les éléments nécessaires.
+- Voir ci-haut.
 
-### Qualité et organisation de la maquette `10`
+### Organisation du fichier `5`
 
-- [ ] Les éléments livrables sont organisés en utilisant les outils de mise en page appropriés (*page*, *section*, *frame*, *style*).
-- [ ] Les calques et les composants sont nommés pertinemment.
-- [ ] Les principes du système de design sont précis et pertinents en vue des objectifs identifiés par le cahier des charges.
-- [ ] Le système de design est appliqué de façon constante à travers la maquette.
-- [ ] La grille typographique est utilisée judicieusement pour aligner les éléments de l’interface, et ainsi lui donner un rythme visuel.
-- [ ] L’interface est décomposée en morceaux logiques qui peuvent être facilement composés.
-- [ ] Le choix des polices de caractères est pertinent et original.
-- [ ] Les niveaux de l’échelle typographique sont bien utilisés à travers la maquette.
-- [ ] Le motif aide à solidifier l’identité du site Web.
-- [ ] Les couleurs s’agencent bien, et sont utilisées consciencieusement.
+- Les éléments livrables sont organisés en utilisant les outils appropriés (*page*, *section*, *frame*, *style*).
+- Le nom des calques et des composants est descriptif.
 
-### Qualité de la présentation et de l’argumentaire `5`
+### Qualité de la maquette `10`
 
-- [ ] Les diapositives sont soignées, et contiennent peu ou pas de texte.
-- [ ] Les choix faits quant aux éléments du système de design sont argumentés en se référant aux objectifs du site et aux principes choisis.
+- La maquette est soignée.
+- Les éléments de l'interface sont alignés sur la grille.
+- L'espacement respecte la mesure de base.
+- Le contenu est visuellement organisé à l'aide de l'échelle typographique.
+- La charte graphique est appliquée de façon constante.
+- L'interface est judicieusement décomposée en composants.
 
+### Qualité de la charte `5`
+
+- Le principe de design est concret et pertinent en vue du sujet et des objectifs du site Web.
+- La palette de couleur est harmonieuse, et son choix est expliqué en se référant au principe de design.
+- Le choix des polices de caractères est expliqué en se référant au principe de design.
+- Les niveaux de l'échelle typographique sont clairement distincts, et ils permettent de créer un hiérarchie visuelle.
