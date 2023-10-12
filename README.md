@@ -29,7 +29,7 @@ L'interface du site Web doit être divisée en composants. Ces composants doiven
 
 ### Maquette graphique
 
-La maquette graphique doit détailler les deux même pages sur lesquelles vous avez travaillez lors du TP1. Libre à vous d'incorporer ou non les variations proposées.
+La maquette graphique doit détailler les deux même pages sur lesquelles vous avez travaillez lors du TP1. Libre à vous d'incorporer ou non les variations proposées. La maquette graphique doit représenter l'apparence finale du site Web dans tous ces détails, incluant les vrais textes et images (pas de *placeholders*).
 
 ## Rubrique d'évaluation
 
