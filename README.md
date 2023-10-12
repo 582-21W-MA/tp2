@@ -56,4 +56,4 @@ La maquette graphique doit détailler les deux même pages sur lesquelles vous a
 - Le principe de design est concret et pertinent en vue du sujet et des objectifs du site Web.
 - La palette de couleur est harmonieuse, et son choix est expliqué en se référant au principe de design.
 - Le choix des polices de caractères est expliqué en se référant au principe de design.
-- Les niveaux de l'échelle typographique sont clairement distincts, et ils permettent de créer un hiérarchie visuelle.
+- Les niveaux de l'échelle typographique sont clairement distincts, et ils permettent de créer une hiérarchie visuelle.
